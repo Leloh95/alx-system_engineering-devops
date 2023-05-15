@@ -1,1 +1,0 @@
-This project if for I/O redirection and filters, each file will contain scripts showing the commands used for this SHELL projectThis project if for I/O redirection and filters, each file will contain scripts showing the commands used for this SHELL project
