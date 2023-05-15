@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+this project has scrips for shell I/O redirections
