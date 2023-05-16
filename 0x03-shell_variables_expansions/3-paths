@@ -1,0 +1,2 @@
+#!/bin/bash
+find /PATH/to/directory -type d | wc -1
